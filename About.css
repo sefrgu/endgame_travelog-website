@@ -61,11 +61,11 @@ body {
   font-weight: bolder;
 }
 .button1:hover {
-  background-color: lightblue;
+  background-color: #bcddfe;
   color: black;
 }
 .button2:hover {
-  background-color: lightblue;
+  background-color: #bcddfe;
   color: black;
 }
 .button3:hover {
@@ -92,7 +92,7 @@ body {
 }
 .button3 {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: lightblue; /* Green */
+  background-color: #bcddfe; /* Green */
   color: black;
   padding: 8px;
   text-align: center;
