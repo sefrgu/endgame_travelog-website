@@ -111,11 +111,20 @@ body {
   }
   .about {
     text-align: justify;
-    font-size: 12px;
     margin-left: 10%;
     margin-right: 10%;
   }
-	
+.p3 { 
+font-size: 12px;
+}
+.p4 {
+font-size: 12px;	
+}
+.p5 {
+font-size: 12px;
+}
+.p6 {
+font-size: 12 px;
 }
 @media(max-width: 500px){
 
