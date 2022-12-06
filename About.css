@@ -102,6 +102,14 @@ body {
   margin-bottom: 100%;
 }
 
+@media(max-width: 800px){
+  nav .p1{
+    display: none;
+  }
+  nav .p2{
+    display: none;
+  }
+}
 @media(max-width: 500px){
   nav .p1{
     display: none;
@@ -110,7 +118,6 @@ body {
     display: none;
   }
   .about {
-    text-align: justify;
     font-size: 12px;
     margin-left: 10%;
     margin-right: 10%;
