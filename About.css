@@ -200,34 +200,34 @@ body {
   }
 		
 .p3 { 
-font-size: 12px;
+font-size: 15px;
 }
 .p4 {
-font-size: 14px;	
+font-size: 15px;	
 }
 .p5 {
-font-size: 14px;
+font-size: 15px;
 }
 .p6 {
-font-size: 14px;
+font-size: 15px;
 }
 .end {
-font-size: 14px;	
+font-size: 11px;	
 }
 .fa {
 padding:8px;
 width: 12px;
 }
 nav .button1 {
-    font-size: 50%;
+    font-size: 100%;
     margin-top: -100px;
   }
   nav .button2 {
-    font-size: 50%;
+    font-size: 100%;
     margin-top: -100px;
   }
   nav .button3 {
-    font-size: 50%;
+    font-size: 100%;
     margin-top: -100px;
 	
 }
