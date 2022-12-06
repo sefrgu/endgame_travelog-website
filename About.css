@@ -111,8 +111,8 @@ body {
   }
   .about {
     text-align: justify;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 8%;
+    margin-right: 8%;
   }
 .p3 { 
 font-size: 12px;
@@ -124,7 +124,15 @@ font-size: 12px;
 font-size: 12px;
 }
 .p6 {
-font-size: 12 px;
+font-size: 12px;
+}
+.end {
+font-size: 12px;	
+}
+.fa {
+padding: 8px;
+}
+	
 }
 @media(max-width: 500px){
 
