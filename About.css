@@ -110,6 +110,7 @@ body {
     display: none;
   }
   .about {
+    text-align: justify;
     font-size: 12px;
     margin-left: 10%;
     margin-right: 10%;
