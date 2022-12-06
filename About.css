@@ -111,26 +111,26 @@ body {
   }
   .about {
     text-align: justify;
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 .p3 { 
-font-size: 12px;
+font-size: 10px;
 }
 .p4 {
-font-size: 12px;	
+font-size: 10px;	
 }
 .p5 {
-font-size: 12px;
+font-size: 10px;
 }
 .p6 {
-font-size: 12px;
+font-size: 10px;
 }
 .end {
-font-size: 12px;	
+font-size: 10px;	
 }
 .fa {
-padding: 8px;
+width: 12px;
 }
 	
 }
