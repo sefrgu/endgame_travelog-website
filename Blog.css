@@ -219,12 +219,18 @@ margin-left: 4%;
   }
   .pic1 {
     margin-bottom: 21px;
+width: 100%;
+height: 100%;
   }
   .pic2 {
     margin-bottom: 21px;
+width: 100%;
+height: 100%;
   }
   .pic3 {
     margin-bottom: 21px;
+width: 100%;
+height: 100%;
   }
 }
 @media(max-width: 500px){
