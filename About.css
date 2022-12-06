@@ -109,20 +109,16 @@ body {
   nav .p2{
     display: none;
   }
-}
-@media(max-width: 500px){
-  nav .p1{
-    display: none;
-  }
-  nav .p2{
-    display: none;
-  }
   .about {
     font-size: 12px;
     margin-left: 10%;
     margin-right: 10%;
-
   }
+	
+}
+@media(max-width: 500px){
+
+ 
   .header {
     margin-top: 120px;
   }
