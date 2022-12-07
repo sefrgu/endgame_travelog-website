@@ -173,7 +173,7 @@ body {
   font-size: 16px;
   position: absolute;
   left: 0;
-bottom:0;
+margin: auto;
   width: 100%;
   background-color: #0d252f;
 }
@@ -218,7 +218,7 @@ ul li .b3 {
     display: none;
   }	
   .about {
-line-height: 1.0;
+line-height: 1.2;
     margin-left: 8%;
     margin-right: 8%;
 margin-bottom: 20%;
@@ -258,8 +258,8 @@ width: 12px;
 }
 
 .bar1, .bar2, .bar3 {
-  width: 35px;
-  height: 5px;
+  width: 32px;
+  height: 4px;
   background-color: #fff;
   margin: 6px 0;
   transition: 0.4s;
