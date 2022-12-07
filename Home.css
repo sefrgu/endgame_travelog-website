@@ -302,6 +302,7 @@ width: 12px;
   transform: translate(0, -11px) rotate(45deg);
 }
 figure {
+visibility: visible;
 display: block;
 flex-direction: row;
 text-align: center;
