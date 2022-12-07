@@ -271,10 +271,10 @@ text-transform: capitalized;
   }
 .home {
     display: none;
-    margin-bottom: 100%;
   }
   .home2 {
     visibility: visible;
+margin-bottom: 20%;
    }
 
 
