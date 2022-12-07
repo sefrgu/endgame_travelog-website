@@ -3,7 +3,6 @@ body {
 }
 .home2 {
   visibility: hidden;
-  margin-bottom: 100%;
 }
 
 
@@ -271,10 +270,10 @@ text-transform: capitalized;
   }
 .home {
     display: none;
-margin-bottom: 20%;
   }
   .home2 {
     visibility: visible;
+margin-bottom:20%;
    }
 
 
