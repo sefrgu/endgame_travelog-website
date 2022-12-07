@@ -238,8 +238,7 @@ figure img {
     filter: saturate(100%);
    width: 100%;
    height: 100%;
-box-shadow: #28786dbd 10px 10px 15px;
-border-radius: 4%;
+box-shadow: #white 5px 5px 10px;
 }
 figcaption {
 margin-top: 7px;
