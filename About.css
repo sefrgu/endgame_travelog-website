@@ -87,7 +87,7 @@ body {
   text-align: center;
   font-size: 60px;
   font-weight: bolder;
-  margin-top: 60px;
+  margin-top: 30px;
   margin-bottom: 45px;
   background-image: linear-gradient(to right,cyan, cyan, cyan, palegreen, lightgreen,lightgreen,#ffa785, cyan,lightblue,cyan,lightblue, cyan,cyan);
    color: transparent;
@@ -98,7 +98,6 @@ body {
 
 .about {
   margin-left: 100px;
-  line-height: 1.2;
 }
 
 .p3{
