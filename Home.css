@@ -295,7 +295,7 @@ width: 12px;
 .change .bar3 {
   transform: translate(0, -11px) rotate(45deg);
 }
-div {
+figure {
 display: block;
 flex-direction: row;
 text-align: center;
