@@ -103,6 +103,7 @@ background-color: lightblue; /* Green */
     filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
+box-shadow: #28786dbd 15px 15px 15px;
 }
 
 .pic2 {
@@ -115,6 +116,7 @@ background-color: lightblue; /* Green */
     filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
+box-shadow: #28786dbd 15px 15px 15px;
 }
 
 .pic3 {
@@ -127,6 +129,7 @@ background-color: lightblue; /* Green */
     filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
+box-shadow: #28786dbd 15px 15px 15px;
 }
 
 
@@ -234,8 +237,10 @@ figure img {
     filter: saturate(100%);
    width: 100%;
    height: 100%;
+box-shadow: #28786dbd 10px 10px 15px;
 }
 figcaption {
+margin-top: 15px;
   color: white;
 font-size: 22px;
 margin-bottom:16px;
