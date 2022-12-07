@@ -242,7 +242,7 @@ ul li .b3 {
     display: none;
   } 
   .header {
-text-align: center;
+text-indent: auto;
 margin-top: 10px;
   margin-left: 10%;
     margin-right: 10%;
