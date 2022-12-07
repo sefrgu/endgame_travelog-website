@@ -99,7 +99,6 @@ body {
 .about {
   margin-left: 100px;
   line-height: 1.6;
-  margin-bottom: 100%;
 }
 
 .p3{
@@ -223,6 +222,7 @@ ul li .b3 {
     text-align: justify;
     margin-left: 8%;
     margin-right: 8%;
+margin-bottom: 70%;
   }
 	.header {
 	margin-left: 8%;
