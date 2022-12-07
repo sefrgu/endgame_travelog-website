@@ -175,7 +175,8 @@ background-color: lightblue; /* Green */
   text-align: center;
   color: white ;
   font-size: 16px;
-  position: absolute;
+  position: fixed;
+margin-top: 10%;
   left: 0;
   width: 100%;
   background-color: #0d252f;
@@ -275,7 +276,9 @@ text-transform: capitalized;
 margin-bottom:20%;
    }
   .end {
-font-size: 11px;  
+font-size: 11px; 
+position: absolute;
+margin: auto; 
 bottom: 0;
 }
 .fa {
