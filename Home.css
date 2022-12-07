@@ -242,8 +242,10 @@ ul li .b3 {
     display: none;
   } 
   .header {
-  margin-left: 8%;
-    margin-right: 8%;
+text-align: justify;
+margin-top: 10px;
+  margin-left: 10%;
+    margin-right: 10%;
     font-size: 30px;
   }
   .end {
