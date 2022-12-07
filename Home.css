@@ -236,7 +236,6 @@ figure {
   display: block;
   flex-direction: row;
   text-align: center;
-  text-decoration: underline;
   color: white;
 margin: auto;
 }
@@ -251,7 +250,7 @@ figure img {
 }
 figcaption {
   color: white;
-font-size: 25px;
+font-size: 22px;
 }
 
 
@@ -335,4 +334,9 @@ width: 12px;
   .header {
     margin-bottom: 10%;
   }
+}
+@media(max-width: 300px) {
+    figcaption {
+font-size: 16px;
+}
 }
