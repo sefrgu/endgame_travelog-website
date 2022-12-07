@@ -298,21 +298,21 @@ width: 12px;
 
 .pic1 {
   margin-top: 10%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-bottom: 8%;
 }
 .pic2 {
  
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-bottom: 8%;
 }
 
 .pic3 {
 
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 
@@ -323,7 +323,7 @@ width: 12px;
 .header { 
 font-size: 26px;
 text-align: none;
-text-indent: 60px; 
+text-indent: 150px; 
 
 }
 
