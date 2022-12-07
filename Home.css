@@ -251,6 +251,10 @@ figure img {
 figcaption {
   color: white;
 font-size: 22px;
+margin-bottom:16px;
+font-style: oblique;
+text-transform: capitalized;
+text-shadow: 5px 5px gray;
 }
 
 
