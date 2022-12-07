@@ -276,6 +276,7 @@ margin-bottom:20%;
    }
   .end {
 font-size: 11px;  
+bottom: 0;
 }
 .fa {
 padding:8px;
