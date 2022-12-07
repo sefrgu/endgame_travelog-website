@@ -321,8 +321,9 @@ width: 12px;
 
 @media(max-width: 500px) {
 .header { 
+ 
 font-size: 26px;
-text-indent: 50px; 
+text-indent: 150px; 
 margin-right: 5%;
 margin-left: 5%;
 
