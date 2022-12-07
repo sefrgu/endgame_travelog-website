@@ -227,7 +227,10 @@ ul li .b3 {
   color: white;
   text-decoration: none;
 }
-
+figcaption { 
+color: white;
+font-size: 26px;
+}
 
 
 
@@ -251,6 +254,9 @@ margin-bottom: 10%;
   }
   .end {
 font-size: 11px;  
+}
+.bottom-left {
+display: none;
 }
 .fa {
 padding:8px;
