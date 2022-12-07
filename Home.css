@@ -237,11 +237,11 @@ figure {
   flex-direction: row;
   text-align: center;
   color: white;
-margin: auto;
+margin-left: 15%;
+margin-right: 15%;
 }
 
 figure img {
-  border-radius: 40px;
   filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
@@ -254,7 +254,6 @@ font-size: 22px;
 margin-bottom:16px;
 font-style: oblique;
 text-transform: capitalized;
-text-shadow: 5px 5px gray;
 }
 
 
