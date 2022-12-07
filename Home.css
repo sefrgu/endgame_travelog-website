@@ -2,7 +2,7 @@ body {
 	background: #163d4c;
 }
 .home2 {
-  visibility: hidden;
+ display: none;
 }
 
 
