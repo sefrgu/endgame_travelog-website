@@ -238,12 +238,10 @@ ul li .b3 {
 
 
 @media(max-width: 1200px){
-   .p1{
+   nav {
     display: none;
   }
-   .p2{
-    display: none;
-  }
+
   .header {
     margin-left: 10%;
     margin-right: 10%;
@@ -255,18 +253,7 @@ ul li .b3 {
     margin-left: 10%;
     margin-right: 10%;
   }
- .button1 {
-    font-size: 100%;
-    margin-top: -100px;
-  }
-   .button2 {
-    font-size: 100%;
-    margin-top: -100px;
-  }
-   .button3 {
-    font-size: 100%;
-    margin-top: -100px;
-  }
+ 
 .p3 { 
 font-size: 16px;
 }
