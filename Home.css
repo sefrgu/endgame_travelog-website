@@ -305,7 +305,7 @@ figure {
 display: block;
 flex-direction: row;
 text-align: center;
-text-decoration: underline;
+text-decoration: blink;
 }
 }
 
