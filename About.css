@@ -98,7 +98,7 @@ body {
 
 .about {
   margin-left: 100px;
-  line-height: 1.6;
+  line-height: 1.2;
 }
 
 .p3{
@@ -172,7 +172,7 @@ body {
   text-align: center;
   color: white ;
   font-size: 16px;
-  position: fixed;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -219,6 +219,7 @@ ul li .b3 {
     display: none;
   }	
   .about {
+line-height: 1.4;
     text-align: justify;
     margin-left: 8%;
     margin-right: 8%;
@@ -244,7 +245,8 @@ font-size: 15px;
 font-size: 15px;
 }
 .end {
-font-size: 11px;	
+font-size: 11px;
+position: fixed;	
 }
 .fa {
 padding:8px;
