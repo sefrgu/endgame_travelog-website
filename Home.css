@@ -1,9 +1,6 @@
 body {
 	background: #163d4c;
 }
-.home {
-  margin-bottom: 100%;
-}
 .home2 {
   visibility: hidden;
   margin-bottom: 100%;
@@ -274,7 +271,7 @@ text-transform: capitalized;
   }
 .home {
     display: none;
-    margin-bottom: 0%;
+    margin-bottom: 100%;
   }
   .home2 {
     visibility: visible;
