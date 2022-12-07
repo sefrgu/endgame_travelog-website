@@ -272,7 +272,7 @@ text-transform: capitalized;
     display: none;
   }
   .home2 {
-    visibility: visible;
+    display: block;
 margin-bottom:20%;
    }
 
