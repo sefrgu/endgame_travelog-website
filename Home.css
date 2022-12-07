@@ -259,7 +259,7 @@ text-transform: capitalized;
 
 
 
-@media(max-width: 1200px){
+@media(max-width: 800px){
   nav {
     display: none;
   } 
@@ -271,10 +271,10 @@ text-transform: capitalized;
   }
 .home {
     display: none;
+margin-bottom: 20%;
   }
   .home2 {
     visibility: visible;
-margin-bottom: 20%;
    }
 
 
