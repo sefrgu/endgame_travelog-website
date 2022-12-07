@@ -245,6 +245,8 @@ figure img {
   filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
+   width: 100%;
+   height: 100%;
 }
 figcaption {
   color: white;
