@@ -216,13 +216,9 @@ ul li .b3 {
 
 
 @media(max-width: 1200px){
-  nav .p1{
+  nav {
     display: none;
-  }
-  nav .p2{
-    display: none;
-  }
-	
+  }	
   .about {
     text-align: justify;
     margin-left: 8%;
@@ -254,20 +250,8 @@ font-size: 11px;
 padding:8px;
 width: 12px;
 }
-nav .button1 {
-    font-size: 100%;
-    margin-top: -100px;
-  }
-  nav .button2 {
-    font-size: 100%;
-    margin-top: -100px;
-  }
-  nav .button3 {
-    font-size: 100%;
-    margin-top: -100px;
-	
-}
-	.menu {
+
+.menu {
   display: inline-block;
   cursor: pointer;
   margin-top: 10px;
