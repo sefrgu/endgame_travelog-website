@@ -238,6 +238,7 @@ figure {
   text-align: center;
   text-decoration: underline;
   color: white;
+margin: auto;
 }
 
 figure img {
@@ -326,24 +327,7 @@ width: 12px;
 }
 
 
-.pic1 {
-  margin-top: 10%;
-  margin-left: 3%;
-  margin-right: 3%;
-  margin-bottom: 3%;
-}
-.pic2 {
- 
-  margin-left: 3%;
-  margin-right: 3%;
-  margin-bottom: 3%;
-}
 
-.pic3 {
-
-  margin-left: 3%;
-  margin-right: 3%;
-}
 
   }
 
