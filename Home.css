@@ -1,6 +1,9 @@
 body {
 	background: #163d4c;
 }
+body .particles { 
+display: none;
+}
 .home2 {
  display: none;
 }
@@ -256,6 +259,12 @@ text-transform: capitalized;
 
 
 @media(max-width: 1200px){
+body { 
+display: none;
+}
+body . particles {
+visibility: visible;
+}
   nav {
     display: none;
   } 
