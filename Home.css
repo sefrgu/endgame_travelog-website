@@ -257,7 +257,7 @@ text-transform: capitalized;
 @media(max-width: 1200px){
 
 #particles-js { 
-height: 140vh;
+height: 220vh;
 width: 100%;
 }
   nav {
@@ -334,6 +334,9 @@ width: 12px;
   .header {
     margin-bottom: 10%;
   }
+#particles-js { 
+height: 130vh;
+}
 }
 @media(max-width: 300px) {
     figcaption {
