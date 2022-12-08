@@ -252,7 +252,7 @@ text-align: left;
 margin-top: -20px;
   color: white;
 font-size: 22px;
-margin-bottom:16px;
+margin-bottom:32px;
 font-style: italicized;
 text-transform: capitalized;
 }
@@ -347,3 +347,4 @@ height: 140vh;
 font-size: 16px;
 }
 }
+ 
