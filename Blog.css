@@ -2,8 +2,8 @@ body {
   background: #163d4c;
 }
 #particles-js {
-height: 280vh;
-weight: 100%;
+height: 270vh;
+width: 100%;
 position: absolute;
 }
 
