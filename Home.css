@@ -225,6 +225,7 @@ ul li .b3 {
 }
 
 figure {
+position: absolute;
   display: block;
   flex-direction: row;
   text-align: center;
@@ -234,6 +235,7 @@ margin-right: 12%;
 }
 
 figure img {
+position: absolute;
   filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
