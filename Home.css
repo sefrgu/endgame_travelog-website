@@ -1,7 +1,7 @@
 body {
 	background: #163d4c;
 }
-body .particles { 
+.particles { 
 display: none;
 }
 .home2 {
@@ -263,7 +263,7 @@ body {
 display: none;
 } 
 .particles {
-visibility: visible;
+display: block;
 }
   nav {
     display: none;
