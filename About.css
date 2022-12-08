@@ -300,12 +300,19 @@ position: relative;
 .change .bar3 {
   transform: translate(0, -11px) rotate(45deg);
 }
+@media(max-width: 800px){
+
+#particles-js {
+  height: 260vh;
+  
+}
+}
 
 }
 @media(max-width: 500px){
 
 #particles-js {
-  height: 140vh;
+  height: 110vh;
   
 }
 }
