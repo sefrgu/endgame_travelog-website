@@ -116,6 +116,7 @@ box-shadow: #28786dbd 15px 15px 15px;
 }
 
 .pic2 {
+margin-bottom: 50px;
   margin-left: 50px;
     margin-top: 10px;
   position: relative;
@@ -131,7 +132,7 @@ box-shadow: #28786dbd 15px 15px 15px;
 .pic3 {
   margin-left: 50px;
     margin-top: 10px;
-margin-bottom: 50px;
+margin-bottom: 120px;
   position: relative;
   display: inline-grid;
     color: white;
@@ -254,7 +255,7 @@ text-transform: capitalized;
 }
 
 
-@media(max-width: 1200px){
+@media(max-width: 800px){
 
 #particles-js { 
 height: 200vh;
