@@ -261,8 +261,8 @@ text-transform: capitalized;
 @media(max-width: 1200px){
 body { 
 display: none;
-}
-body . particles {
+} 
+.particles {
 visibility: visible;
 }
   nav {
