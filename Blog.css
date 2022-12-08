@@ -349,7 +349,7 @@ position: relative;
 @media(max-width: 800px){
 
 #particles-js {
-  height: 260vh;
+  height: 540vh;
   
 }
 }
@@ -357,7 +357,7 @@ position: relative;
 @media(max-width: 500px){
 
 #particles-js {
-  height: 110vh;
+  height: 410vh;
   
 }
 }
