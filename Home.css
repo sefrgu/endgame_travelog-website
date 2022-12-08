@@ -280,7 +280,6 @@ display: block;
   .end {
 font-size: 11px; 
 position: absolute;
-bottom: auto;
 top: auto;
 }
 .fa {
