@@ -235,7 +235,6 @@ margin-right: 12%;
 }
 
 figure img {
-position: absolute;
   filter: brightness(90%);
     filter: contrast(20%);
     filter: saturate(100%);
