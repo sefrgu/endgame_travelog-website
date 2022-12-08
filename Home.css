@@ -1,7 +1,8 @@
 body {
 	background: #163d4c;
 }
-.particles { 
+#particles-js { 
+height: 100%;
 visibility: hidden;
 }
 .home2 {
@@ -262,7 +263,7 @@ text-transform: capitalized;
 body { 
 display: none;
 } 
-.particles {
+#particles-js {
 visibility: visible;
 }
   nav {
