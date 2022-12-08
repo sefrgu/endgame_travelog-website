@@ -228,7 +228,7 @@ line-height: 1.2;
 margin-bottom: 40%;
   }
 #particles-js {
-  height: 150vh;
+  height: 350vh;
   
 }
 	.header {
@@ -260,6 +260,7 @@ width: 12px;
 }
 
 .menu {
+position: relative;
   display: inline-block;
   cursor: pointer;
   margin-top: 10px;
@@ -285,6 +286,7 @@ width: 12px;
 }
 
 
+
 .change .button1 {
   display: block;
 }
@@ -299,4 +301,11 @@ width: 12px;
   transform: translate(0, -11px) rotate(45deg);
 }
 
+}
+@media(max-width: 500px){
+
+#particles-js {
+  height: 140vh;
+  
+}
 }
