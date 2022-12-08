@@ -2,7 +2,7 @@ body {
 	background: #163d4c;
 }
 .particles { 
-display: none;
+visibility: hidden;
 }
 .home2 {
  display: none;
@@ -263,7 +263,7 @@ body {
 display: none;
 } 
 .particles {
-display: block;
+visibility: visible;
 }
   nav {
     display: none;
