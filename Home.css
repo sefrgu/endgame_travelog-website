@@ -1,11 +1,8 @@
 body {
 	background: #163d4c;
-        height: 100vh;
 }
 #particles-js { 
 height: 100%;
-display: none;
-
 }
 .home2 {
  display: none;
@@ -262,9 +259,8 @@ text-transform: capitalized;
 
 
 @media(max-width: 1200px){
- 
-#particles-js {
-display: block;
+ body {
+height: 100vh;
 }
   nav {
     display: none;
