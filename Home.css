@@ -257,7 +257,9 @@ text-transform: capitalized;
 
 
 @media(max-width: 1200px){
-
+body {
+height: 100vh;
+}
 #particles-js { 
 height: 100%;
 }
@@ -274,6 +276,7 @@ height: 100%;
     display: none;
   }
   .home2 {
+position: absolute;
 margin-bottom:20%;
 display: block;
    }
