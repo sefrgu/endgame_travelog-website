@@ -257,7 +257,7 @@ text-transform: capitalized;
 @media(max-width: 1200px){
 
 #particles-js { 
-height: 220vh;
+height: 200vh;
 width: 100%;
 }
   nav {
@@ -335,7 +335,7 @@ width: 12px;
     margin-bottom: 10%;
   }
 #particles-js { 
-height: 130vh;
+height: 160vh;
 }
 }
 @media(max-width: 300px) {
