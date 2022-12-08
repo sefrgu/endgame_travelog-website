@@ -259,8 +259,9 @@ text-transform: capitalized;
 
 
 @media(max-width: 1200px){
- body {
+ figure {
 height: 100vh;
+
 }
   nav {
     display: none;
