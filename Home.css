@@ -275,7 +275,7 @@ height: 100%;
   }
   .home2 {
 margin-bottom:20%;
-height: 100vh;
+display: block;
    }
   .end {
 font-size: 11px; 
