@@ -247,6 +247,7 @@ box-shadow: #28786dbd 15px 15px 15px;
 }
 }
 figcaption {
+position: relative;
 background: #262626;
 opacity: 0.7;
 text-align: left;
