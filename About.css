@@ -175,7 +175,7 @@ body {
   text-align: center;
   color: white ;
   font-size: 16px;
-  position: absolute;
+  position: fixed;
   left: 0;
 bottom: 0;
   width: 100%;
@@ -252,7 +252,8 @@ font-size: 15px;
 }
 .end {
 font-size: 11px;
-bottom: auto;	
+bottom: auto;
+position: absolute;	
 }
 .fa {
 padding:8px;
