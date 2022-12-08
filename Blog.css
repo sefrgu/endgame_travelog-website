@@ -261,6 +261,9 @@ text-decoration: none;
     margin-right: 10%;
     margin-bottom: 20%;
 }
+#particles-js {
+height: 400vh;
+}
  
 .p3 { 
 font-size: 16px;
@@ -303,6 +306,7 @@ padding:9px;
 width: 12px;
 }
 .menu {
+position: relative;
   display: inline-block;
   cursor: pointer;
   margin-top: 10px;
