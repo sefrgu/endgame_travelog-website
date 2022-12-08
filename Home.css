@@ -247,10 +247,11 @@ box-shadow: #28786dbd 15px 15px 15px;
 }
 
 figcaption {
+position: absolute;
 background: #262626;
 opacity: 0.7;
 text-align: left;
-margin-top: -35px;
+margin-top: -30px;
   color: white;
 font-size: 22px;
 margin-bottom:32px;
