@@ -235,6 +235,11 @@ ul li {
   list-style-type: none;
   display: inline-block;
 }
+ul li .b {
+  color: white;
+text-decoration: none;
+}
+
 ul li .b1 {
   color: white;
 }
