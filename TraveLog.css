@@ -252,12 +252,12 @@ ul li {
 }
 ul li .b1 {
   color: white;
+text-decoration: none;
   
 }
 
 ul li .b2 {
   color: white;
-  text-decoration: none;
 }
 
 ul li .b3 {
