@@ -25,7 +25,23 @@ body {
   font-size: 20px;
   color: white;
 }
-
+.button {
+  font-family: Arial, Helvetica, sans-serif;
+background-color: darkslategray; /* Green */
+  color: #66CCFF;
+  padding: 8px;
+  text-align: center;
+  display: inline-block;
+  font-size: 17px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  position: absolute;
+  right: 220px;
+  margin-top: -40px;
+  text-decoration: none;
+  font-weight: bolder;
+}
 .button1 {
   font-family: Arial, Helvetica, sans-serif;
 background-color: lightblue; /* Green */
@@ -42,6 +58,10 @@ background-color: lightblue; /* Green */
   margin-top: -40px;
   text-decoration: none;
   font-weight: bolder;
+}
+.button:hover {
+  background-color: lightblue;
+  color: black;
 }
 .button1:hover {
   background-color: darkslategray;
