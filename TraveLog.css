@@ -242,14 +242,12 @@ height: 100vh;
   visibility: hidden;
 }
 ul li {
-  width: 200px;
-  top: 0;
-  right: 0;
- text-align: left;
+  top: -40px;
+  position: relative;
+  text-indent: 12px;
   font-size: 18px;
   list-style-type: none;
-  z-index: 2;
-  background: orange;
+  display: inline-block;
 }
 ul li .b1 {
   color: white;
