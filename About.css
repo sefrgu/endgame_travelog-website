@@ -309,6 +309,13 @@ width: 80%;
   
 }
 }
+@media(max-width: 800px){
+
+#particles-js {
+width: 80%;
+  
+}
+}
 
 }
 @media(max-width: 500px){
