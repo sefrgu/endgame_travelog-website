@@ -564,7 +564,7 @@ text-align: justify;
 @media(max-width: 800px) {
 
   .header {
-margin-top: -200px;
+margin-top: -600px;
     margin-bottom: 10%;
   }
 
@@ -578,7 +578,7 @@ margin-top: -200px;
    font-size: 22px;
      }
   #particles-js { 
-height: 600vh;
+height: 400vh;
 width: 80%;
 }
 .p8, .p9, .p10, .p11 {
