@@ -565,7 +565,6 @@ text-align: justify;
 @media(max-width: 800px) {
 
   .header {
-top: 30px;
     margin-bottom: 10%;
   }
 
