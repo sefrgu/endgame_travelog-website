@@ -4,7 +4,7 @@ body {
 
 #particles-js {
   height: 120vh;
-  width: 90%;
+  width: 100%;
   position: absolute;
 }
 
@@ -342,6 +342,7 @@ width: 12px;
   }
 #particles-js { 
 height: 140vh;
+width: 80%;
 }
 }
 @media(max-width: 300px) {
