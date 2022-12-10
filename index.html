@@ -51,8 +51,14 @@ function myFunction(x) {
 	<div class="bottom-left">Siargao</div>
 </div>
 	<div class="pic2">
-	<img src="BoracayPics/Boracay.jfif" alt="Boracay" width="380" height="280">
+	<img onclick="change()" id="bora" src="BoracayPics/Boracay.jfif" alt="Boracay" width="380" height="280">
 	<div class="bottom-left">Boracay</div>
+<script>
+var boracay = ["BoracayPics/Boracay1.jfif","BoracayPics/Boracay2.jfif"];
+function change() {
+document.getElementbyId("bora").src = boracay[Math.floor(Math.random * 1)];
+}
+</script>
 </div>
 	<div class="pic3">
 	<img src="PalawanPics/Palawan.jfif" alt="Palawan" width="380" height="280">
