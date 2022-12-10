@@ -54,9 +54,9 @@ function myFunction(x) {
 	<img onclick="change()" id="bora" src="BoracayPics/Boracay.jfif" alt="Boracay" width="380" height="280">
 	<div class="bottom-left">Boracay</div>
 <script>
-var boracay = ["BoracayPics/Boracay1.jfif","BoracayPics/Boracay2.jfif"];
+var boracay = ["BoracayPics/Boracay.jfif","BoracayPics/Boracay1.jfif","BoracayPics/Boracay2.jfif"];
 function change() {
-document.getElementbyId("bora").src = boracay[Math.floor(Math.random * 1)];
+document.getElementbyId("bora").src = boracay[Math.floor(Math.random * 3)];
 }
 </script>
 </div>
