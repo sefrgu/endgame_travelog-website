@@ -248,20 +248,24 @@ ul li {
   display: inline-block;
 }
 ul li .b1 {
+position: relative;
   color: white;
 text-decoration: none;
   
 }
 
 ul li .b2 {
+position: relative;
   color: white;
 }
 
 ul li .b3 {
+position: relative;
   color: white;
   text-decoration: none;
 }
 ul li .b4 {
+position: relative;
   color: white;
   text-decoration: none;
 }
