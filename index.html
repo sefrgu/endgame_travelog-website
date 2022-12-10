@@ -51,12 +51,15 @@ function myFunction(x) {
 	<div class="bottom-left">Siargao</div>
 </div>
 	<div class="pic2">
-	<img onclick="change()" id="bora" src="BoracayPics/Boracay.jfif" alt="Boracay" width="380" height="280">
+	<img id="bora" src="BoracayPics/Boracay.jfif" alt="Boracay" width="380" height="280">
 	<div class="bottom-left">Boracay</div>
 <script>
+document.addEventListener("click", myFunction);
+function myFunction() {
 var boracay = ["BoracayPics/Boracay.jfif","BoracayPics/Boracay1.jfif","BoracayPics/Boracay2.jfif"];
-function change() {
-document.getElementbyId("bora").src = boracay[Math.floor(Math.random * 3)];
+
+document.getElementbyId("bora").src = boracay[Math.floor(Math.random * 2)];
+
 }
 </script>
 </div>
