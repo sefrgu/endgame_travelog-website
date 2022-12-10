@@ -428,7 +428,7 @@ margin-left: 4%;
 @media(max-width: 1200px){
 
 #particles-js { 
-height: 300vh;
+height: 600vh;
 width: 100%;
 }
   nav {
@@ -585,7 +585,7 @@ margin-top: 10px;
    font-size: 22px;
      }
   #particles-js { 
-height: 660vh;
+height: 710vh;
 width: 80%;
 }
 .p8, .p9, .p10, .p11 {
