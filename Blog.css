@@ -32,13 +32,13 @@ position: absolute;
   color: white;
   text-indent: 30px;
   margin-bottom: 0px;
+text-decoration: none;
 }
 .p5 {
   line-height: 1.5;
   font-size: 20px;
   color: white;
   margin-bottom: 60px;
-text-decoration: none;
 }
 
 .p6 {
