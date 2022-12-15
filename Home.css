@@ -4,7 +4,7 @@ body {
 
 #particles-js {
   height: 120vh;
-  width: 95%;
+  width: 100%;
   position: absolute;
 }
 
@@ -208,8 +208,8 @@ box-shadow: #28786dbd 15px 15px 15px;
   text-align: center;
   color: white ;
   font-size: 16px;
-  position: absolute;
-  left: auto;
+  position: fixed;
+  left: 0;
 bottom: 0;
   width: 100%;
   background-color: #0d252f;
