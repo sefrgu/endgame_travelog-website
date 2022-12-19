@@ -3,8 +3,8 @@ body {
 }
 
 #particles-js {
-  height: 120vh;
-  width: 100%;
+  height: 90vh;
+  width: 200vh;
   position: absolute;
 }
 
@@ -208,9 +208,9 @@ box-shadow: #28786dbd 15px 15px 15px;
   text-align: center;
   color: white ;
   font-size: 16px;
-  position: fixed;
+  position: absolute;
   left: 0;
-bottom: 0;
+bottom: auto;
   width: 100%;
   background-color: #0d252f;
 }
