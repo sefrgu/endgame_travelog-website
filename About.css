@@ -2,7 +2,7 @@ body {
 	background: #163d4c;
 }
 #particles-js {
-  height: 120vh;
+  height: 80vh;
   width: 200vh;
   position: absolute;
 }
@@ -196,7 +196,7 @@ background-color: darkslategray; /* Green */
   text-align: center;
   color: white ;
   font-size: 16px;
-  position: fixed;
+  position: absolute;
   left: 0;
 bottom: auto;
   width: 100%;
